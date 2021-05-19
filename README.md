@@ -2,28 +2,50 @@
 
 # Data Structures 
 
-1. Arrays
-  a. Traversal
-  b. Insertion
-  c. Deletion
-  d. Searching
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      Arrays
+      <ul>
+        <li>Traversal</li>
+        <li>Insertion</li>
+        <li>Deletion</li>
+        <li>Searching</li>
+      </ul>
+    </li>
+    <li>
+      Linked List  
+      <ul>
+        <li>Traversal</li>
+        <li>Insertion
+          <ul>
+            <li>Insertion at the end.</li>
+            <li>Insertion at head.</li>
+            <li>Insertion in between after specific key.</li>
+            <li>Insertion at specific postion.</li>
+          </ul>
+         </li>
+        <li>Deletion
+          <ul>
+            <li>Deletion at head.</li>
+            <li>Deletion at end.</li>
+            <li>Deletion of specific node with key.</li>
+            <li>Deletion of specific node by postion.</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ol>
+</details>
 
-2. Linked List
-  
-  a. Traversal
-  
-  b. Insertion
-    
-    1. Insertion at end.
-    2. Insertion at head.
-    3. Insertion in between after specific key.
-    4. Insertion at specific postion.
   
   c. Deletion
     
-    1. Deletion at head.
-    2. Deletion at end.
-    3. Deletion of specific node with key.
-    4. Deletion of specific node by postion.
+    1. 
+    2. 
+    3. 
+    4. 
   
   d. Searching  
