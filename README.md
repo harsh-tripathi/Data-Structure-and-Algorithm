@@ -94,12 +94,12 @@
       <ul>
         <li>Using array
           <ul>
-            <li>Push<li>
-            <li>Pop<li>
-            <li>isEmpty<li>
-            <li>isFull<li>
-            <li>Peek<li>
-            <li>Print stack<li>
+            <li>Push</li>
+            <li>Pop</li>
+            <li>isEmpty</li>
+            <li>isFull</li>
+            <li>Peek</li>
+            <li>Print stack</li>
           </ul>
         </li>
         <li>Using Linkedlist
