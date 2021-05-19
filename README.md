@@ -3,13 +3,9 @@
 # Data Structures 
 
 1. Arrays
-  
   a. Traversal
-  
   b. Insertion
-  
   c. Deletion
-  
   d. Searching
 
 2. Linked List
