@@ -35,17 +35,101 @@
             <li>Deletion of specific node by postion.</li>
           </ul>
         </li>
+        <li>Searching</li>
+      </ul>
+    </li>
+    <li>
+      Circular Linked list 
+      <ul>
+        <li>Traversal</li>
+        <li>Insertion
+          <ul>
+            <li>Insertion at the end.</li>
+            <li>Insertion at head.</li>
+            <li>Insertion in between after specific key.</li>
+            <li>Insertion at specific postion.</li>
+          </ul>
+         </li>
+        <li>Deletion
+          <ul>
+            <li>Deletion at head.</li>
+            <li>Deletion at end.</li>
+            <li>Deletion of specific node with key.</li>
+            <li>Deletion of specific node by postion.</li>
+          </ul>
+        </li>
+        <li>Searching</li>
+      </ul>
+    </li>
+    <li>
+      Doubly Linked list 
+      <ul>
+        <li>Traversal
+          <ul>
+            <li>Traversal Forward</li>
+            <li>Traversal Backward</li>
+          </ul>
+        </li>
+        <li>Insertion
+          <ul>
+            <li>Insertion at the end.</li>
+            <li>Insertion at head.</li>
+            <li>Insertion in between after specific key.</li>
+            <li>Insertion at specific postion.</li>
+          </ul>
+         </li>
+        <li>Deletion
+          <ul>
+            <li>Deletion at head.</li>
+            <li>Deletion at end.</li>
+            <li>Deletion of specific node with key.</li>
+            <li>Deletion of specific node by postion.</li>
+          </ul>
+        </li>
+        <li>Searching</li>
+      </ul>
+    </li>
+    <li>
+      Stack
+      <ul>
+        <li>Using array
+          <ul>
+            <li>Push<li>
+            <li>Pop<li>
+            <li>isEmpty<li>
+            <li>isFull<li>
+            <li>Peek<li>
+            <li>Print stack<li>
+          </ul>
+        </li>
+        <li>Using Linkedlist
+          <ul>
+            <li>Push</li>
+            <li>Pop</li>
+            <li>isEmpty</li>
+            <li>isFull</li>
+            <li>Peek</li>
+            <li>Print stack</li>
+          </ul>
+        </li>
       </ul>
     </li>
   </ol>
 </details>
 
-  
-  c. Deletion
-    
-    1. 
-    2. 
-    3. 
-    4. 
-  
-  d. Searching  
+# Algorithms
+      
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      Searching
+      <ul>
+        <li>Binary Searching</li>
+      </ul>
+    </li>
+    <li>
+      Sorting
+    </li>
+  </ol>
+</details>
