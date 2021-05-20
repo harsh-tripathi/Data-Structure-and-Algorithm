@@ -114,6 +114,30 @@
         </li>
       </ul>
     </li>
+    <li>
+      Queue
+      <ul>
+        <li>Using array
+          <ul>
+            <li>Enqueue</li>
+            <li>Dequque</li>
+            <li>isEmpty</li>
+            <li>isFull</li>
+            <li>Peek</li>
+            <li>Display</li>
+          </ul>
+        </li>
+        <li>Using Linkedlist
+          <ul>
+            <li>Enqueue</li>
+            <li>Dequeue</li>
+            <li>isEmpty</li>
+            <li>Peek</li>
+            <li>Display</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
   </ol>
 </details>
 

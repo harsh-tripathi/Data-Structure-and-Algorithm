@@ -5,9 +5,15 @@ using namespace std;
 
 class stack
 {
-    int arr[1000];
+    int* arr;
     int top=-1;
     public:
+
+    stack(int n)
+    {
+        arr = new int[n];
+    }
+
     void push(int val)
     {
         if(top>1000)
@@ -76,7 +82,7 @@ class stack
 
 int main()
 {
-    stack arr;
+    stack arr = stack(10);
     arr.push(10);
     arr.push(20);
     arr.push(30);
